@@ -3,7 +3,7 @@
 🎓 Computer Engineering Graduate
 🚀 Python • SQL • AI Systems
 
-I build practical software focused on data analysis, automation, and system-based problem solving.
+I build Python-based systems for data analysis, automation, and structured problem solving.
 
 ---
 
