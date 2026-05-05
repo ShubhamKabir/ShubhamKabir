@@ -1,64 +1,56 @@
-# Hi, I'm Shubham 👋
+# Hi, I'm Shubham
 
-## 🚀 About Me
-
-I am a Computer Engineering graduate focused on Python, SQL, and AI-driven workflows.
-I combine technical skills with content strategy and real-world experience from freelancing and YouTube.
+Python, SQL, and AI-focused developer building practical systems and automation tools.
 
 ---
 
-## 💡 What I Do
+## What I Do
 
-* Build AI-based systems using prompt engineering
-* Perform data analysis using SQL and Python
-* Develop frontend applications using React
-* Create and optimize content using data-driven strategies
-
----
-
-## 🔥 Featured Projects
-
-### 🎮 AI Gaming Growth Assistant
-
-AI-powered system to generate video ideas, optimize titles, and improve YouTube performance using structured prompt engineering.
-
-👉 https://github.com/ShubhamKabir/ai-gaming-growth-assistant
+* Build data-driven applications using Python and SQL
+* Create automation tools for real-world problems
+* Design structured systems with AI-style logic
 
 ---
 
-### 📊 SQL to Python Data Analysis
+## Featured Projects
 
-Project demonstrating data extraction, cleaning, and analysis using SQL and pandas to generate meaningful insights.
+### AI Technical Support Assistant
 
-👉 https://github.com/ShubhamKabir/sql-python-data-analysis
+Python-based system that classifies user issues using scoring logic and generates structured troubleshooting solutions.
+
+### SQL + Python Data Analysis
+
+End-to-end data analysis project using SQLite and pandas to generate business insights from structured data.
+
+### Python File Organizer
+
+Automation tool that organizes files by type with dynamic folder creation and execution tracking.
 
 ---
 
-### 🌐 React Task Manager
+## Skills
 
-Task management application with user search functionality, API integration, and dynamic UI.
-
-👉 https://github.com/ShubhamKabir/react-task-manager
-
----
-
-## 🛠️ Tech Stack
-
-* Python, SQL
-* Pandas
-* React, JavaScript
+* Python, SQL, Pandas
+* Automation & Scripting
+* AI Workflows, Prompt Engineering
 * Git & GitHub
 
 ---
 
-## 📈 Current Focus
+## Experience
 
-* Strengthening backend and data skills
-* Building real-world projects
-* Applying for software and data-related roles
+* Delivered 80+ freelance projects for 60+ clients
+* Managed YouTube workflows (500+ videos, 450K+ views)
+* Provided technical support and solved real-world user issues
 
 ---
 
-## 📫 Connect
+## Current Focus
 
-* GitHub: https://github.com/ShubhamKabir
+Building practical Python systems and improving data analysis workflows.
+
+---
+
+## GitHub
+
+https://github.com/ShubhamKabir
