@@ -17,10 +17,10 @@ I build practical software focused on data analysis, automation, and system-base
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Technical Support Assistant
+### 🤖 AI Technical Support Assistant  
+🔗 https://github.com/ShubhamKabir/ai-support-assistant  
 
-🔗 https://github.com/ShubhamKabir/ai-support-assistant
-Python-based system that classifies user issues using scoring logic and generates structured troubleshooting solutions.
+Python-based system that classifies user issues using a scoring-based approach and generates structured troubleshooting responses.
 
 ---
 
