@@ -1,34 +1,44 @@
-# Hi, I'm Shubham
+# Hi, I'm Shubham 👋
 
-Python, SQL, and AI-focused developer building practical systems and automation tools.
+🎓 Computer Engineering Graduate
+🚀 Python • SQL • AI Systems
+
+I build practical software focused on data analysis, automation, and system-based problem solving.
 
 ---
 
-## What I Do
+## 🔧 What I Do
 
-* Build data-driven applications using Python and SQL
-* Create automation tools for real-world problems
+* Build data-driven applications using Python & SQL
+* Develop automation tools for real-world workflows
 * Design structured systems with AI-style logic
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### AI Technical Support Assistant
+### 🤖 AI Technical Support Assistant
 
+🔗 https://github.com/ShubhamKabir/ai-support-assistant
 Python-based system that classifies user issues using scoring logic and generates structured troubleshooting solutions.
-
-### SQL + Python Data Analysis
-
-End-to-end data analysis project using SQLite and pandas to generate business insights from structured data.
-
-### Python File Organizer
-
-Automation tool that organizes files by type with dynamic folder creation and execution tracking.
 
 ---
 
-## Skills
+### 📊 SQL + Python Data Analysis
+
+🔗 https://github.com/ShubhamKabir/sql-python-data-analysis-v2
+End-to-end data analysis system using SQLite and pandas to generate business insights.
+
+---
+
+### ⚙️ Python File Organizer
+
+🔗 https://github.com/ShubhamKabir/python-file-organizer
+Automation tool that organizes files by type with dynamic folder handling and execution tracking.
+
+---
+
+## 🧠 Skills
 
 * Python, SQL, Pandas
 * Automation & Scripting
@@ -37,20 +47,20 @@ Automation tool that organizes files by type with dynamic folder creation and ex
 
 ---
 
-## Experience
+## 💼 Experience
 
 * Delivered 80+ freelance projects for 60+ clients
-* Managed YouTube workflows (500+ videos, 450K+ views)
 * Provided technical support and solved real-world user issues
+* Managed large-scale content workflows (500+ videos, with multiple videos reaching 450K+ views)
 
 ---
 
-## Current Focus
+## 📈 Current Focus
 
-Building practical Python systems and improving data analysis workflows.
+Building Python-based systems and improving data-driven workflows.
 
 ---
 
-## GitHub
+## 🌐 Connect
 
-https://github.com/ShubhamKabir
+👉 GitHub: https://github.com/ShubhamKabir
