@@ -24,17 +24,17 @@ Python-based system that classifies user issues using a scoring-based approach a
 
 ---
 
-### 📊 SQL + Python Data Analysis
+### 📊 SQL + Python Data Analysis  
+🔗 https://github.com/ShubhamKabir/sql-python-data-analysis-v2  
 
-🔗 https://github.com/ShubhamKabir/sql-python-data-analysis-v2
-End-to-end data analysis system using SQLite and pandas to generate business insights.
+End-to-end data analysis project using SQLite and pandas to perform queries, aggregation, and generate business insights.
 
 ---
 
-### ⚙️ Python File Organizer
+### ⚙️ Python File Organizer  
+🔗 https://github.com/ShubhamKabir/python-file-organizer  
 
-🔗 https://github.com/ShubhamKabir/python-file-organizer
-Automation tool that organizes files by type with dynamic folder handling and execution tracking.
+Automation tool that organizes files by type with dynamic folder creation and execution logging.
 
 ---
 
