@@ -1,82 +1,79 @@
-# Hi, I'm Shubham Adarsh Kabir 👋
+# Hi, I'm Shubham 👋
 
-Technical content and data-focused professional with experience in Python, SQL, AI-assisted workflows, automation, troubleshooting, and digital content systems.
+Technical content and data-focused professional with experience in Python, SQL, AI-assisted workflows, automation, and practical problem-solving systems.
 
-I work on practical projects involving workflow optimization, frontend applications, data analysis, and AI-assisted support systems.
-
----
-
-## Tech Stack
-
-```text
-Python • SQL • Pandas • Prompt Engineering • AI-Assisted Workflows
-HTML • CSS • JavaScript • React • Git & GitHub
-Java (basic) • C/C++ (fundamentals)
-```
+I build real-world solutions involving data analysis, workflow optimization, structured troubleshooting, frontend applications, and AI-assisted systems.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 📊 SQL + Python Data Analysis
 
-Data analysis workflows using SQL and Python (pandas) for extraction, cleaning, analysis, and insights.
+🔗 https://github.com/ShubhamKabir/sql-python-data-analysis
 
-🔗 Repository:
-[https://github.com/ShubhamKabir/sql-python-data-analysis](https://github.com/ShubhamKabir/sql-python-data-analysis)
-
----
-
-### 🤖 AI Technical Support Assistant
-
-Python-based support workflow system for issue classification and structured troubleshooting responses.
-
-🔗 Repository:
-[https://github.com/ShubhamKabir](https://github.com/ShubhamKabir)
+Data analysis workflows using SQL and Python (pandas) for extraction, cleaning, aggregation, and insight generation.
 
 ---
 
-### ⚛️ React Task Manager + User Search
+### 🤖 AI Support Assistant
 
-React application with task management, API integration, LocalStorage persistence, and user search functionality.
+🔗 https://github.com/ShubhamKabir/ai-support-assistant
 
-🔗 Repository:
-[https://github.com/ShubhamKabir/react-task-manager](https://github.com/ShubhamKabir/react-task-manager)
+Python-based troubleshooting workflow system for issue classification, structured responses, and AI-assisted support logic.
+
+---
+
+### 🌐 React Task Manager + User Search
+
+🔗 https://github.com/ShubhamKabir/react-task-manager
+
+React application with LocalStorage persistence, API integration, task management, and user search functionality.
+
+---
+
+### 💼 Portfolio Website
+
+🔗 https://github.com/ShubhamKabir/portfolio-site
+
+Portfolio website showcasing projects, technical skills, and practical experience.
 
 🌐 Live Demo:
-[https://react-task-manager-beta-taupe.vercel.app](https://react-task-manager-beta-taupe.vercel.app)
+https://portfolio-site-taupe-zeta-18.vercel.app/
 
 ---
 
-### 🌐 Portfolio Website
+## 🧠 Skills
 
-Personal portfolio website showcasing projects, technical skills, and practical experience.
-
-🔗 Repository:
-[https://github.com/ShubhamKabir/portfolio-site](https://github.com/ShubhamKabir/portfolio-site)
-
-🌐 Live Demo:
-[https://portfolio-site-taupe-zeta-18.vercel.app/](https://portfolio-site-taupe-zeta-18.vercel.app/)
+* Python, SQL, Pandas
+* Prompt Engineering & AI-Assisted Workflows
+* Automation & Scripting
+* HTML, CSS, JavaScript, React (basic)
+* Git & GitHub
+* Adobe Premiere Pro, After Effects, Photoshop
 
 ---
 
-## Experience Highlights
+## 💼 Experience Highlights
 
 * Delivered 80+ freelance projects for 60+ clients
-* Managed and optimized YouTube content workflows
-* Worked on content optimization, automation-oriented workflows, and technical troubleshooting
-* Experience handling client communication and problem-solving
+* Managed YouTube workflows including publishing and optimization
+* Produced 500+ gaming and tech videos
+* Worked on content strategy, automation, and workflow optimization
+* Solved technical and operational issues for non-technical clients
 
 ---
 
-## GitHub Stats
+## 📈 Currently Working On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamKabir\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKabir\&layout=compact)
+Building practical Python-based systems involving automation, AI-assisted workflows, troubleshooting, and data-driven problem solving.
 
 ---
 
-## Contact
+## 🌐 Links
 
-📧 Email: [kabirshubham2@gmail.com](mailto:kabirshubham2@gmail.com)
+Portfolio:
+https://portfolio-site-taupe-zeta-18.vercel.app/
+
+GitHub:
+https://github.com/ShubhamKabir
