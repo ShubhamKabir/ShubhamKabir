@@ -32,17 +32,6 @@ React application with LocalStorage persistence, API integration, task managemen
 
 ---
 
-### 💼 Portfolio Website
-
-🔗 https://github.com/ShubhamKabir/portfolio-site
-
-Portfolio website showcasing projects, technical skills, and practical experience.
-
-🌐 Live Demo:
-https://portfolio-site-taupe-zeta-18.vercel.app/
-
----
-
 ## 🧠 Skills
 
 * Python, SQL, Pandas
@@ -72,8 +61,8 @@ Building practical Python-based systems involving automation, AI-assisted workfl
 
 ## 🌐 Links
 
-Portfolio:
+Portfolio
 https://portfolio-site-taupe-zeta-18.vercel.app/
 
-GitHub:
+GitHub
 https://github.com/ShubhamKabir
