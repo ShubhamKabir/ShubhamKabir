@@ -10,7 +10,7 @@ I build real-world solutions involving data analysis, workflow optimization, str
 
 ### 📊 SQL + Python Data Analysis
 
-🔗 https://github.com/ShubhamKabir/sql-python-data-analysis
+🔗 https://github.com/ShubhamKabir/sql-python-data-analysis-v2
 
 Data analysis workflows using SQL and Python (pandas) for extraction, cleaning, aggregation, and insight generation.
 
