@@ -1,66 +1,74 @@
 # Hi, I'm Shubham 👋
 
-🎓 Computer Engineering Graduate
-🚀 Python • SQL • AI Systems
+Technical content and data-focused professional with experience in Python, SQL, AI workflows, and practical automation systems.
 
-I build Python-based systems for data analysis, automation, and structured problem solving.
-
----
-
-## 🔧 What I Do
-
-* Build data-driven applications using Python & SQL
-* Develop automation tools for real-world workflows
-* Design structured systems with AI-style logic
+I build real-world solutions involving data analysis, workflow optimization, structured problem solving, and AI-assisted systems.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Technical Support Assistant  
-🔗 https://github.com/ShubhamKabir/ai-support-assistant  
+### 🤖 AI Gaming Growth Assistant
 
-Python-based system that classifies user issues using a scoring-based approach and generates structured troubleshooting responses.
+🔗 https://github.com/ShubhamKabir/ai-gaming-growth-assistant
 
----
-
-### 📊 SQL + Python Data Analysis  
-🔗 https://github.com/ShubhamKabir/sql-python-data-analysis-v2  
-
-End-to-end data analysis project using SQLite and pandas to perform queries, aggregation, and generate business insights.
+AI-driven YouTube growth assistant built using prompt engineering and structured workflows for idea generation, title optimization, and content strategy.
 
 ---
 
-### ⚙️ Python File Organizer  
-🔗 https://github.com/ShubhamKabir/python-file-organizer  
+### 📊 SQL + Python Data Analysis
 
-Automation tool that organizes files by type with dynamic folder creation and execution logging.
+🔗 https://github.com/ShubhamKabir/sql-python-data-analysis
+
+Data analysis workflows using SQL and Python (pandas) for extraction, cleaning, aggregation, and insight generation.
+
+---
+
+### ⚙️ Python File Organizer
+
+🔗 https://github.com/ShubhamKabir/python-file-organizer
+
+Automation tool that organizes files dynamically based on type and generates execution logs for workflow tracking.
+
+---
+
+### 🌐 React Task Manager
+
+🔗 https://github.com/ShubhamKabir/react-task-manager
+
+Task management application with LocalStorage persistence, API integration, and user search functionality.
 
 ---
 
 ## 🧠 Skills
 
 * Python, SQL, Pandas
+* Prompt Engineering & AI Workflows
 * Automation & Scripting
-* AI Workflows, Prompt Engineering
+* HTML, CSS, JavaScript, React (basic)
 * Git & GitHub
+* Adobe Premiere Pro, After Effects, Photoshop
 
 ---
 
-## 💼 Experience
+## 💼 Experience Highlights
 
 * Delivered 80+ freelance projects for 60+ clients
-* Provided technical support and solved real-world user issues
-* Managed large-scale content workflows (500+ videos, with multiple videos reaching 450K+ views)
+* Managed YouTube workflows including publishing and optimization
+* Produced 500+ gaming and tech videos
+* Worked on content strategy, automation, and workflow optimization
+* Solved technical and operational issues for non-technical clients
 
 ---
 
 ## 📈 Current Focus
 
-Building Python-based systems and improving data-driven workflows.
+Building practical Python-based systems involving automation, AI-assisted workflows, and data-driven problem solving.
 
 ---
 
-## 🌐 Connect
+## 🌐 Links
 
-👉 GitHub: https://github.com/ShubhamKabir
+Portfolio: https://portfolio-site-taupe-zeta-18.vercel.app/
+
+GitHub: https://github.com/ShubhamKabir
