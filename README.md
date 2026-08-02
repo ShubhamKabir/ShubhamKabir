@@ -1,68 +1,79 @@
 # Hi, I'm Shubham 👋
 
-Technical content and data-focused professional with experience in Python, SQL, AI-assisted workflows, automation, and practical problem-solving systems.
+Technical and data-focused professional with hands-on experience in Python, SQL, AI-driven workflows, automation, and technical problem-solving.
 
-I build real-world solutions involving data analysis, workflow optimization, structured troubleshooting, frontend applications, and AI-assisted systems.
+Delivered **100+ freelance projects** for **70+ clients** since 2020 while creating **500+ YouTube videos** since 2018. Currently focused on Python, AI, technical support, data analysis, and practical automation.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 SQL + Python Data Analysis
+## 📊 SQL + Python Data Analysis
 
 🔗 https://github.com/ShubhamKabir/sql-python-data-analysis-v2
 
-Data analysis workflows using SQL and Python (pandas) for extraction, cleaning, aggregation, and insight generation.
+Performed data analysis using SQL and Python (Pandas) for data extraction, cleaning, analysis, and insight generation.
 
 ---
 
-### 🤖 AI Support Assistant
+## 🤖 AI Technical Support Assistant
 
 🔗 https://github.com/ShubhamKabir/ai-support-assistant
 
-Python-based troubleshooting workflow system for issue classification, structured responses, and AI-assisted support logic.
+Python-based AI support system for issue classification, structured troubleshooting, automated workflows, and technical support logic.
 
 ---
 
-### 🌐 React Task Manager + User Search
+## 🚀 AI YouTube Growth Assistant
 
-🔗 https://github.com/ShubhamKabir/react-task-manager
+🔗 https://github.com/ShubhamKabir/ai-youtube-growth-assistant
 
-React application with LocalStorage persistence, API integration, task management, and user search functionality.
+Built an AI-driven YouTube growth assistant using prompt engineering.
 
----
-
-## 🧠 Skills
-
-* Python, SQL, Pandas
-* Prompt Engineering & AI-Assisted Workflows
-* Automation & Scripting
-* HTML, CSS, JavaScript, React (basic)
-* Git & GitHub
-* Adobe Premiere Pro, After Effects, Photoshop
+- Topic research
+- Title optimization
+- Thumbnail ideation
+- Content strategy
+- Structured prompt workflows
 
 ---
 
-## 💼 Experience Highlights
+# 🧠 Skills
 
-* Delivered 80+ freelance projects for 60+ clients
-* Managed YouTube workflows including publishing and optimization
-* Produced 500+ gaming and tech videos
-* Worked on content strategy, automation, and workflow optimization
-* Solved technical and operational issues for non-technical clients
-
----
-
-## 📈 Currently Working On
-
-Building practical Python-based systems involving automation, AI-assisted workflows, troubleshooting, and data-driven problem solving.
+- Python, SQL, Pandas
+- Prompt Engineering, AI Evaluation, Data Annotation
+- Git & GitHub
+- HTML, CSS, JavaScript, React (Basic)
+- Java (Basic), C/C++ (Fundamentals)
+- Adobe Premiere Pro, After Effects, Photoshop
 
 ---
 
-## 🌐 Links
+# 💼 Experience Highlights
 
-Portfolio
+- Delivered **100+ freelance projects** for **70+ clients** through Fiverr and independent work
+- Achieved **Fiverr Level 1 Seller** with a **5★ rating**
+- Managed YouTube publishing, optimization, and content workflows
+- Produced **500+ gaming and tech videos**
+- Recently worked on **AI Training & Data Annotation**
+- Solved technical and operational issues for non-technical clients
+
+---
+
+# 📈 Currently Working On
+
+- Python Development
+- AI Training & Data Annotation
+- AI Evaluation & Prompt Engineering
+- Technical Support Automation
+- Data Analysis & Workflow Optimization
+
+---
+
+# 🌐 Links
+
+### Portfolio
 https://portfolio-site-taupe-zeta-18.vercel.app/
 
-GitHub
+### GitHub
 https://github.com/ShubhamKabir
