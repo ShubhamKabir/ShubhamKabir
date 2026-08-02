@@ -28,13 +28,7 @@ Python-based AI support system for issue classification, structured troubleshoot
 
 🔗 https://github.com/ShubhamKabir/ai-youtube-growth-assistant
 
-Built an AI-driven YouTube growth assistant using prompt engineering.
-
-- Topic research
-- Title optimization
-- Thumbnail ideation
-- Content strategy
-- Structured prompt workflows
+Built an AI-driven YouTube growth assistant using prompt engineering for topic research, title optimization, thumbnail ideation, content strategy, and reusable AI workflows.
 
 ---
 
