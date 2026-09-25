@@ -1,8 +1,8 @@
 # Hi, I'm Shubham 👋
 
-Technical and data-focused professional with hands-on experience in Python, SQL, AI-driven workflows, automation, and technical problem-solving.
+Technical and data-focused professional with hands-on experience in Python, SQL, AI workflows, data analysis, technical support, automation, and web development.
 
-Delivered **100+ freelance projects** for **70+ clients** since 2020 while creating **500+ YouTube videos** since 2018. Currently focused on Python, AI, technical support, data analysis, and practical automation.
+Delivered **100+ freelance projects** for **70+ clients** since 2020 while creating **500+ gaming and technology videos** since 2018. Currently working in **AI training and data annotation** while building practical projects across Python, data, AI, and web development.
 
 ---
 
@@ -12,7 +12,7 @@ Delivered **100+ freelance projects** for **70+ clients** since 2020 while creat
 
 🔗 https://github.com/ShubhamKabir/sql-python-data-analysis-v2
 
-Performed data analysis using SQL and Python (Pandas) for data extraction, cleaning, analysis, and insight generation.
+Practical data analysis project combining SQL, Python, and Pandas for data extraction, cleaning, analysis, and insight generation.
 
 ---
 
@@ -20,7 +20,7 @@ Performed data analysis using SQL and Python (Pandas) for data extraction, clean
 
 🔗 https://github.com/ShubhamKabir/ai-support-assistant
 
-Python-based AI support system for issue classification, structured troubleshooting, automated workflows, and technical support logic.
+Python-based technical support assistant for issue classification, structured troubleshooting responses, and AI-assisted support workflows.
 
 ---
 
@@ -28,29 +28,42 @@ Python-based AI support system for issue classification, structured troubleshoot
 
 🔗 https://github.com/ShubhamKabir/ai-youtube-growth-assistant
 
-Built an AI-driven YouTube growth assistant using prompt engineering for topic research, title optimization, thumbnail ideation, content strategy, and reusable AI workflows.
+AI-assisted workflow for topic research, idea generation, title optimization, thumbnail ideation, and content strategy for gaming-focused creators.
+
+---
+
+## 💻 PULSE — Project Management Web App
+
+🔗 https://github.com/ShubhamKabir/web-projects/tree/master/pulse
+
+Modern project-management web application built with Next.js, React, TypeScript, and Tailwind CSS, featuring dashboards, projects, tasks, calendar, team, activity, settings, and responsive application interfaces.
 
 ---
 
 # 🧠 Skills
 
-- Python, SQL, Pandas
-- Prompt Engineering, AI Evaluation, Data Annotation
+- Python, SQL, MySQL, Pandas
+- Data Analysis
+- AI Evaluation, Data Annotation, Prompt Engineering
+- Technical Support, Troubleshooting
+- AI-Assisted Workflows & Automation
 - Git & GitHub
-- HTML, CSS, JavaScript, React (Basic)
-- Java (Basic), C/C++ (Fundamentals)
-- Adobe Premiere Pro, After Effects, Photoshop
+- Next.js, React, TypeScript
+- HTML, CSS, JavaScript
+- Java, C/C++ Fundamentals
+- Content Management, Research, Video Editing
 
 ---
 
 # 💼 Experience Highlights
 
-- Delivered **100+ freelance projects** for **70+ clients** through Fiverr and independent work
-- Achieved **Fiverr Level 1 Seller** with a **5★ rating**
-- Managed YouTube publishing, optimization, and content workflows
-- Produced **500+ gaming and tech videos**
-- Recently worked on **AI Training & Data Annotation**
-- Solved technical and operational issues for non-technical clients
+- Delivered **100+ freelance projects** for **70+ clients**
+- **Fiverr Level 1 Seller** with a **5★ rating**
+- Currently working in **AI Training & Data Annotation**
+- Produced **500+ gaming and technology videos**
+- Created a YouTube Short with **1.7M+ views**
+- Built practical projects in Python, SQL, AI, Data Analysis, and web development
+- Provided technical troubleshooting and digital support for clients
 
 ---
 
@@ -59,15 +72,16 @@ Built an AI-driven YouTube growth assistant using prompt engineering for topic r
 - Python Development
 - AI Training & Data Annotation
 - AI Evaluation & Prompt Engineering
-- Technical Support Automation
-- Data Analysis & Workflow Optimization
+- Data Analysis
+- Technical Support & Automation
+- Web Development
 
 ---
 
 # 🌐 Links
 
 ### Portfolio
-https://portfolio-site-taupe-zeta-18.vercel.app/
+https://portfolio-main-psi-rouge.vercel.app/
 
 ### GitHub
 https://github.com/ShubhamKabir
