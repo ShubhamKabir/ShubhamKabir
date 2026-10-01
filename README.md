@@ -2,7 +2,7 @@
 
 Technical and data-focused professional with hands-on experience in Python, SQL, AI workflows, data analysis, technical support, automation, and web development.
 
-Delivered **100+ freelance projects** for **70+ clients** since 2020 while creating **500+ gaming and technology videos** since 2018. Currently working in **AI training and data annotation** while building practical projects across Python, data, AI, and web development.
+Delivered **100+ freelance projects** for **70+ clients** since 2020 while creating **500+ gaming and technology videos** since 2018. Currently working in **AI training and data annotation** while building practical projects across Python, data, AI, automation, and web development.
 
 ---
 
@@ -32,11 +32,19 @@ AI-assisted workflow for topic research, idea generation, title optimization, th
 
 ---
 
+## ⚙️ Business Automation Work
+
+🔗 https://portfolio-main-psi-rouge.vercel.app/work/automation
+
+Business automation workflows connecting websites, data, AI, CRM, and communication tools using Make, Airtable, Gemini, HubSpot, Notion, and Gmail for lead follow-up, client onboarding, and reporting.
+
+---
+
 ## 💻 PULSE — Project Management Web App
 
 🔗 https://github.com/ShubhamKabir/web-projects/tree/master/pulse
 
-Modern project-management web application built with Next.js, React, TypeScript, and Tailwind CSS, featuring dashboards, projects, tasks, calendar, team, activity, settings, and responsive application interfaces.
+Project-management web application built with Next.js, React, TypeScript, and Tailwind CSS, featuring dashboards, projects, tasks, calendar, team, client intake, analytics, and automated client onboarding and reporting workflows.
 
 ---
 
@@ -46,9 +54,10 @@ Modern project-management web application built with Next.js, React, TypeScript,
 - Data Analysis
 - AI Evaluation, Data Annotation, Prompt Engineering
 - Technical Support, Troubleshooting
-- AI-Assisted Workflows & Automation
+- Business Automation, AI-Assisted Workflows
+- Make, Airtable, HubSpot, Notion, Gmail
 - Git & GitHub
-- Next.js, React, TypeScript
+- Next.js, React, TypeScript, Tailwind CSS
 - HTML, CSS, JavaScript
 - Java, C/C++ Fundamentals
 - Content Management, Research, Video Editing
@@ -62,7 +71,7 @@ Modern project-management web application built with Next.js, React, TypeScript,
 - Currently working in **AI Training & Data Annotation**
 - Produced **500+ gaming and technology videos**
 - Created a YouTube Short with **1.7M+ views**
-- Built practical projects in Python, SQL, AI, Data Analysis, and web development
+- Built practical projects in Python, SQL, AI, Data Analysis, web development, and business automation
 - Provided technical troubleshooting and digital support for clients
 
 ---
@@ -73,6 +82,7 @@ Modern project-management web application built with Next.js, React, TypeScript,
 - AI Training & Data Annotation
 - AI Evaluation & Prompt Engineering
 - Data Analysis
+- Business Automation
 - Technical Support & Automation
 - Web Development
 
